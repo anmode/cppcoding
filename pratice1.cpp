@@ -8,11 +8,11 @@ int main()
   cin >> num1;
   cout << "\n Enter the second number=";
   cin >> num2;
-  cout << "\nInitial num1 and num2";
-  cout << num1 << num2;
+  cout << "\nInitial num1 and num2" << endl;
+  cout << num1 << "\t" << num2;
   temp = num1;
   num1 = num2;
   num2 = temp;
   cout << "\nSwaped numbers";
-  cout << num1 << num2;
+  cout << num1 << "\t" << num2;
 }
