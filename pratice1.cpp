@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
   int num1, num2, temp;
-  cout << "\nThis is the program to swap two digit";
+  cout << "\nThis is the program to swap two digits";
   cout << "\n Enter the first number=";
   cin >> num1;
   cout << "\n Enter the second number=";
